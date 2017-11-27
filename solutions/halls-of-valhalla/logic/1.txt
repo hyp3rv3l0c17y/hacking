@@ -1,0 +1,3 @@
+12 = twelve (length 6)
+6 = six (length 3)
+10 = ten (length 3)
