@@ -1,0 +1,1 @@
+Convert base 3 to base 10.
