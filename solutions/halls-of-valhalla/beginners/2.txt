@@ -1,0 +1,8 @@
+View page source.
+Notice 
+function checkpass(user, pass){
+   if(user=='jimi' && pass=='hendrix'){
+     return true;
+   }
+   return false;
+ }
