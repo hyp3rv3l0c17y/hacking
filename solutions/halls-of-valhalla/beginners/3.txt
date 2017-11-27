@@ -1,0 +1,3 @@
+Inspect -> Console
+javascript:alert(document.cookie) shows "auth=false"
+Run javascript:void(document.cookie="auth=true") and refresh the page
