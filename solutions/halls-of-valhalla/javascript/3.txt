@@ -1,0 +1,4 @@
+View page source.
+Notice
+function checkPass(pass){...}
+Run to see what base*base is and use corresponding password.
